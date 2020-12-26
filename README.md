@@ -18,4 +18,4 @@ contains the source code (folders bellow) which helps you:
     https://eu.mouser.com/ProductDetail/Texas-Instruments/LAUNCHXL-CC1352R1?qs=%2Fha2pyFaduiQ7Z42YDZKD%252B%252BKR%252BDtUFlmucoyXB8qKwOHg2wBKpv0sFZe%2FQNwveyX     https://eu.mouser.com/ProductDetail/Texas-Instruments/BOOSTXL-SENSORS?qs=SMCV84mnLhn6xI7%2F2i6PdA%3D%3D
     Connect the devices to PC
     
-# 2. Follow the instructions (starting from 2nd point) from the link: https://github.com/dvd-ai/blinking/edit/main/README.md
+# 2. Follow the instructions from readme.md in the given repository (starting from 2nd point) from the link: https://github.com/dvd-ai/blinking/blob/main/README.md
